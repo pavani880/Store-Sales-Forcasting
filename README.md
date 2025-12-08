@@ -1,37 +1,46 @@
-                                                    Sales Analysis Project
+# 📊 Superstore Sales Dashboard (Streamlit App)
 
-This project focuses on analyzing retail sales data to uncover insights, identify trends, and build visualizations that support data-driven business decisions. The analysis is performed using Python inside a Jupyter Notebook (sales_analysis.ipynb).
+An interactive **Sales Analysis + Time Series Forecasting Dashboard** built using **Python, Streamlit, Plotly, and Statsmodels**.  
+Upload your own dataset (Superstore or any sales file) and instantly explore:
 
-🧰 Tools & Libraries Used
+- Descriptive analytics  
+- Sales trends  
+- Category & region breakdown  
+- Product performance  
+- Ship mode behavior  
+- Time series decomposition  
+- ARIMA / SARIMA forecasting  
 
-Python
+---
 
-Pandas – Data cleaning & manipulation
+## 🚀 Features
 
-NumPy – Numerical operations
+### **📈 Sales Overview**
+- Total Sales, Profit, Orders, AOV  
+- Top Products  
+- Segment, Category & Region Performance  
+- State-level visualizations  
 
-Matplotlib / Seaborn – Visualizations
+### **📊 Interactive Visuals**
+- Line charts  
+- Treemaps  
+- Bar & Pie charts  
+- Ship-mode performance  
+- Date filters, segment filters, category filters  
 
-Jupyter Notebook – Interactive analysis environment
+### **⏱️ Time Series + Forecasting**
+- Resampling (D/W/M/Q/Y)  
+- Moving averages  
+- Seasonal decomposition  
+- ADF Test  
+- ACF / PACF plots  
+- ARIMA & SARIMA forecasting with export option  
 
-📈 Key Objectives
+---
 
-Load & understand the dataset
+## ▶️ Running the Streamlit App Locally
 
-Clean & preprocess data
+Run the app:
 
-Exploratory Data Analysis (EDA)
-
-Visualize insights
-
-Derive actionable business insights
-
-🔍 Highlights of the Analysis
-
-Identified top 10 states contributing highest to sales.
-
-Found key sales trends across months & categories.
-
-Used groupby operations to compare regions, categories, and products.
-
-Created clean and modern visualizations.
+```bash
+streamlit run app.py
