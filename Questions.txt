@@ -1,0 +1,29 @@
+Questions ………
+1.	Which Region contributes the most to total sales?
+2.	What are the Top 10 States by total sales?
+3.	Which City has the highest sales?
+4.	Which Segment contributes the most to overall Sales?
+5.	Which Segment contributes the most to the overall sales percentage?
+6.	Within each Segment, which Sub-Category generates the most Sales?
+7.	Which State has the highest Profit and which one has the highest Loss?
+8.	Which Sub-Category contributes the most to overall sales percentage?
+9.	Which State has the highest number of orders?
+10.	Which City has the highest number of orders?
+11.	Which Sub-Category has the highest sales?
+12.	Monthly Sales Trend
+13.	Top 10 Customers by Sales
+14.	Region-wise Sales Contribution
+15.	(Duplicate) Which Region contributes the most to total sales?
+16.	Which Sub-Category contributes the most to sales?
+17.	Which Ship Mode is most used by customers?
+18.	Which Customer made the highest purchase (by Sales)?
+19.	Which Customer made the highest number of Orders?
+20.	Yearly Sales Growth Trend
+21.	Sales Contribution by Ship Mode
+22.	Sales Distribution Plot (insight text)
+23.	Time Series Decomposition — additive model
+24.	Time Series Decomposition — multiplicative model
+25.	ADF test result (stationarity check)
+26.	ACF & PACF plots
+27.	Model Building (ARIMA, SARIMA)
+28.	Forecasting (with comparison ARIMA vs SARIMA)
