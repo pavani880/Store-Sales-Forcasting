@@ -1,4 +1,4 @@
-KPI'S TO SOLVE
+                               Business questions to solve 
 1.	Which Region contributes the most to total sales?
 2.	What are the Top 10 States by total sales?
 3.	Which City has the highest sales?
@@ -27,4 +27,5 @@ KPI'S TO SOLVE
 26.	ACF & PACF plots
 27.	Model Building (ARIMA, SARIMA)
 28.	Forecasting (with comparison ARIMA vs SARIMA)
+
 
