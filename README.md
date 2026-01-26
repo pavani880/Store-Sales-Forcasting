@@ -1,5 +1,5 @@
 
-It is an interactive **Sales Analysis + Time Series Forecasting Dashboard** built using **Python, Streamlit, Plotly, and Statsmodels**.  
+It is an interactive **Sales Analysis + Time Series Forecasting Dashboard** built using **Python, Plotly, and Statsmodels**.  
 
 - Descriptive analytics  
 - Sales trends  
