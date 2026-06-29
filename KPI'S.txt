@@ -1,4 +1,3 @@
-                               Business questions to solve 
 1.	Which Region contributes the most to total sales?
 2.	What are the Top 10 States by total sales?
 3.	Which City has the highest sales?
@@ -21,11 +20,7 @@
 20.	Yearly Sales Growth Trend
 21.	Sales Contribution by Ship Mode
 22.	Sales Distribution Plot (insight text)
-23.	Time Series Decomposition — additive model
-24.	Time Series Decomposition — multiplicative model
-25.	ADF test result (stationarity check)
-26.	ACF & PACF plots
-27.	Model Building (ARIMA, SARIMA)
-28.	Forecasting (with comparison ARIMA vs SARIMA)
+23.	Model Building (ARIMA, SARIMA)
+24.	Forecasting (with comparison ARIMA vs SARIMA)
 
 
