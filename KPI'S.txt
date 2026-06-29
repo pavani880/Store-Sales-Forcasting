@@ -6,21 +6,12 @@
 6.	Within each Segment, which Sub-Category generates the most Sales?
 7.	Which State has the highest Profit and which one has the highest Loss?
 8.	Which Sub-Category contributes the most to overall sales percentage?
-9.	Which State has the highest number of orders?
-10.	Which City has the highest number of orders?
-11.	Which Sub-Category has the highest sales?
-12.	Monthly Sales Trend
-13.	Top 10 Customers by Sales
-14.	Region-wise Sales Contribution
-15.	(Duplicate) Which Region contributes the most to total sales?
-16.	Which Sub-Category contributes the most to sales?
-17.	Which Ship Mode is most used by customers?
-18.	Which Customer made the highest purchase (by Sales)?
-19.	Which Customer made the highest number of Orders?
-20.	Yearly Sales Growth Trend
-21.	Sales Contribution by Ship Mode
-22.	Sales Distribution Plot (insight text)
-23.	Model Building (ARIMA, SARIMA)
-24.	Forecasting (with comparison ARIMA vs SARIMA)
+9.	Which Sub-Category has the highest sales?
+10.	Monthly Sales Trend
+11.	Top 10 Customers by Sales
+12.	Region-wise Sales Contribution
+13.	(Duplicate) Which Region contributes the most to total sales?
+
+
 
 
